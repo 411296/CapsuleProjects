@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\FSE\CapsuleProjects\server\SPA_DL\bin\Debug\SPA_DL.dll.config
+C:\Users\Administrator\Desktop\FSE\CapsuleProjects\server\SPA_DL\bin\Debug\SPA_DL.dll
+C:\Users\Administrator\Desktop\FSE\CapsuleProjects\server\SPA_DL\bin\Debug\SPA_DL.pdb
+C:\Users\Administrator\Desktop\FSE\CapsuleProjects\server\SPA_DL\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\FSE\CapsuleProjects\server\SPA_DL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\FSE\CapsuleProjects\server\SPA_DL\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\FSE\CapsuleProjects\server\SPA_DL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\FSE\CapsuleProjects\server\SPA_DL\obj\Debug\SPA_DL.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\FSE\CapsuleProjects\server\SPA_DL\obj\Debug\SPA_DL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\FSE\CapsuleProjects\server\SPA_DL\obj\Debug\SPA_DL.csproj.CopyComplete
+C:\Users\Administrator\Desktop\FSE\CapsuleProjects\server\SPA_DL\obj\Debug\SPA_DL.dll
+C:\Users\Administrator\Desktop\FSE\CapsuleProjects\server\SPA_DL\obj\Debug\SPA_DL.pdb
